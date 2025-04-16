@@ -37,8 +37,8 @@ Save the trained model, visualize predictions, and integrate it into an applicat
 
 ## PROGRAM
 
-### Name:
-### Register Number:
+### Name: Rahini A
+### Register Number: 212223230165
 ```
 class CNNClassifier(nn.Module):
   def __init__(self): # Define __init__ method explicitly
